@@ -32,5 +32,7 @@ public class Base64Example2 {
 		System.out.println("Encrypted Password length : ----->>>  "+encrytedPass.length());
 		sc.close();
 		System.out.println("***************");
+		System.out.println("***************");
+		System.out.println("***************");
 	}
 }
